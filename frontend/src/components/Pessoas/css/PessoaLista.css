@@ -1,0 +1,100 @@
+.pessoa-container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .title {
+    text-align: center;
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .pessoa-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .pessoa-table th, .pessoa-table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .pessoa-table th {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .pessoa-table td {
+    font-size: 1.1rem;
+    color: #555;
+  }
+  
+  .delete-btn {
+    padding: 8px 16px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .delete-btn:hover {
+    background-color: #e53935;
+  }
+  
+  .delete-btn.confirm {
+    background-color: #ff9800;
+  }
+  
+  .delete-btn.confirm:hover {
+    background-color: #fb8c00;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .pessoa-table th, .pessoa-table td {
+      padding: 8px;
+      font-size: 1rem;
+    }
+  
+    .pessoa-table {
+      border: 0;
+      display: block;
+      overflow-x: auto;
+    }
+  
+    .pessoa-table thead {
+      display: none;
+    }
+  
+    .pessoa-table tr {
+      display: flex;
+      flex-direction: column;
+      margin-bottom: 12px;
+    }
+  
+    .pessoa-table td {
+      display: flex;
+      justify-content: space-between;
+      border: 1px solid #ddd;
+      padding: 10px;
+    }
+  
+    .title {
+      font-size: 1.5rem;
+    }
+  }
+  
+  .no-data {
+    font-size: 1.2rem;
+    color: #777;
+    text-align: center;
+  }
+  
