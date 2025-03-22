@@ -32,7 +32,7 @@ dotnet run
     - Controller
 
 ### Diagrama no modelo relacional
-![Diagrama Relacional](./diagrama_relacional.png)
+![Diagrama Relacional](./diagrama%20relacional.png)
 
 
 
