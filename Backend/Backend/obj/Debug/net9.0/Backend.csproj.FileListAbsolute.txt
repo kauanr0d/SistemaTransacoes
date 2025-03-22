@@ -26,7 +26,6 @@
 /home/kauan/Área de Trabalho/SistemaTransacoes/Backend/Backend/bin/Debug/net9.0/SQLitePCLRaw.batteries_v2.dll
 /home/kauan/Área de Trabalho/SistemaTransacoes/Backend/Backend/bin/Debug/net9.0/SQLitePCLRaw.core.dll
 /home/kauan/Área de Trabalho/SistemaTransacoes/Backend/Backend/bin/Debug/net9.0/SQLitePCLRaw.provider.e_sqlite3.dll
-/home/kauan/Área de Trabalho/SistemaTransacoes/Backend/Backend/bin/Debug/net9.0/System.Text.Json.dll
 /home/kauan/Área de Trabalho/SistemaTransacoes/Backend/Backend/bin/Debug/net9.0/runtimes/browser-wasm/nativeassets/net9.0/e_sqlite3.a
 /home/kauan/Área de Trabalho/SistemaTransacoes/Backend/Backend/bin/Debug/net9.0/runtimes/linux-arm/native/libe_sqlite3.so
 /home/kauan/Área de Trabalho/SistemaTransacoes/Backend/Backend/bin/Debug/net9.0/runtimes/linux-arm64/native/libe_sqlite3.so
@@ -73,3 +72,4 @@
 /home/kauan/Área de Trabalho/SistemaTransacoes/Backend/Backend/obj/Debug/net9.0/Backend.pdb
 /home/kauan/Área de Trabalho/SistemaTransacoes/Backend/Backend/obj/Debug/net9.0/Backend.genruntimeconfig.cache
 /home/kauan/Área de Trabalho/SistemaTransacoes/Backend/Backend/obj/Debug/net9.0/ref/Backend.dll
+/home/kauan/Área de Trabalho/SistemaTransacoes/Backend/Backend/obj/Debug/net9.0/Backend.sourcelink.json
