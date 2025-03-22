@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IxmA1LqEL04=",
+  "dgSpecHash": "6uJJj6NQuLE=",
   "success": true,
   "projectFilePath": "/home/kauan/Área de Trabalho/SistemaTransacoes/Backend/Backend/Backend.csproj",
   "expectedPackageFiles": [
@@ -21,11 +21,14 @@
     "/home/kauan/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.3/microsoft.extensions.logging.abstractions.9.0.3.nupkg.sha512",
     "/home/kauan/.nuget/packages/microsoft.extensions.options/9.0.3/microsoft.extensions.options.9.0.3.nupkg.sha512",
     "/home/kauan/.nuget/packages/microsoft.extensions.primitives/9.0.3/microsoft.extensions.primitives.9.0.3.nupkg.sha512",
-    "/home/kauan/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/home/kauan/.nuget/packages/microsoft.openapi/1.6.23/microsoft.openapi.1.6.23.nupkg.sha512",
     "/home/kauan/.nuget/packages/sqlitepclraw.bundle_green/2.1.11/sqlitepclraw.bundle_green.2.1.11.nupkg.sha512",
     "/home/kauan/.nuget/packages/sqlitepclraw.core/2.1.11/sqlitepclraw.core.2.1.11.nupkg.sha512",
     "/home/kauan/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.11/sqlitepclraw.lib.e_sqlite3.2.1.11.nupkg.sha512",
     "/home/kauan/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.11/sqlitepclraw.provider.e_sqlite3.2.1.11.nupkg.sha512",
+    "/home/kauan/.nuget/packages/swashbuckle.aspnetcore.swagger/8.0.0/swashbuckle.aspnetcore.swagger.8.0.0.nupkg.sha512",
+    "/home/kauan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/8.0.0/swashbuckle.aspnetcore.swaggergen.8.0.0.nupkg.sha512",
+    "/home/kauan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/8.0.0/swashbuckle.aspnetcore.swaggerui.8.0.0.nupkg.sha512",
     "/home/kauan/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
     "/home/kauan/.nuget/packages/system.text.json/9.0.3/system.text.json.9.0.3.nupkg.sha512"
   ],
