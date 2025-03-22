@@ -11,10 +11,12 @@ Sistema para cadastro de pessoas e de transações.
 Para iniciar o frontend, entre na pasta raiz do frontend execute o seguinte comando:
 
 ```bash
+npm install
 npm run dev
 ```
 O front irá rodar na porta 5173
 ### Backend
+Usando a versão 9.0 do .NET
 
 Para iniciar o backend, navegue até a pasta raiz do Backend e execute:
 
@@ -28,7 +30,6 @@ O backend irá rodar na porta 5257
 Ao rodar o backend, a documentação da API poderá ser acessada na rota a seguir:
 
 http://localhost:5257/index.html
-
 
 
 
